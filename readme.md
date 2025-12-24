@@ -1,0 +1,1 @@
+This a learning project for someone who understands vibecoding and looking to deepen understanding of code. It will be run primarily via claude code on web/desktop
