@@ -1,0 +1,28 @@
+{
+  "name": "saber",
+  "version": "1.0.0",
+  "description": "This a learning project for someone who understands vibecoding and looking to deepen understanding of code. It will be run primarily via claude code on web/desktop",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:24014/git/radreads/saber"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}
